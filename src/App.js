@@ -1,5 +1,5 @@
 import React from 'react';
-import Sinal from './components/sinal';
+import Sinal from './components/formulario';
 import './App.css';
 
 class App extends React.Component {
